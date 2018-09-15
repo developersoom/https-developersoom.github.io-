@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 
+title: 필름사진
 category: 사진
 permalink: /Photo/:year/:month/:day/:title/
-tags: 
+tags: [사진]
 comments: true
 ---
 
