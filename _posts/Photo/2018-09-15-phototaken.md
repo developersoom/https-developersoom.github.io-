@@ -8,11 +8,11 @@ comments: true
 published: false
 ---
 
-![bendingMacine](https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/bendingMachine.JPG)
+![bendingMacine](https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/bendingMachine.JPG?raw=true)
 
 <center>
  <figure>
- <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/bendingMachine.JPG" alt="views">
+ <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/bendingMachine.JPG?raw=true" alt="views">
  <figcaption>일본의 벤딩 머신</figcaption>
  </figure>
  </center>
