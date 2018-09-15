@@ -7,15 +7,16 @@ tags: [필름]
 comments: true
 ---
 
-![bendingMacine](/assets/phototaken/bendingMachine.JPG)
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/bendingMachine.JPG?raw=true" style="max-width: 100%; height: auto;"> 
+
 
 <br>
 
-![birdsOnBeach](/assets/phototaken/birdsOnBeach.JPG)
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/birdsOnBeach.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 
 <br>
 
-![birdsOnBeach2](/assets/phototaken/birdsOnBeach2.JPG)
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/birdsOnBeach2.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 
 <br>
 
