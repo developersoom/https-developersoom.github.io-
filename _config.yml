@@ -40,7 +40,7 @@ nav:
     - '/blog/'
   Categories:
     - '/'
-    - { Categories All: '/blog/categories/' }
+    #- { Categories All: '/blog/categories/' }
     - { TIL (Today I Learned): '/blog/categories/#til' }
     - { 사진 : '/blog/categories/#사진' }
     #- { Django: '/blog/categories/#django' }
