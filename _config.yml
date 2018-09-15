@@ -1,11 +1,10 @@
 # Site Info
-title: '숨의 페이지'
+title: 숨의 페이지
 tagline: '숨의 페이지'
 description: '공부기록'
 baseurl: ""
 url: https://developersoom.github.io/
 logo: '/public/logo.png'
-theme: [초보몽키의 개발블로그](https://wayhome25.github.io/)
 
 # Site configurations
 gems:
