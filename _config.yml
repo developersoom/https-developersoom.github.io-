@@ -40,9 +40,9 @@ nav:
     - '/blog/'
   Categories:
     - '/'
-    # - { Categories All: '/blog/categories/' }
+    - { Categories All: '/blog/categories/' }
     - { TIL (Today I Learned): '/blog/categories/#til' }
-    #- { 컴퓨터공학 : '/blog/categories/#컴퓨터공학' }
+    - { 사진 : '/blog/categories/#사진' }
     #- { Django: '/blog/categories/#django' }
     #- { python: '/blog/categories/#python' }
     #- { javascript: '/blog/categories/#javascript' }
