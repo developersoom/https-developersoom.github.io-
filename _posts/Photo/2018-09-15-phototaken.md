@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 예전 필름사진
-category: 사진
+category: 필름
 permalink: /Photo/:year/:month/:day/:title/
-tags: [사진]
+tags: [필름]
 comments: true
 ---
 
