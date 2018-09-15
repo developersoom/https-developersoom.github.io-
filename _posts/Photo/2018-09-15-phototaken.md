@@ -7,4 +7,4 @@ tags: [사진]
 comments: true
 ---
 
-![bendingMacine](https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/bendingMachine.JPG?raw=true)
+![bendingMacine](/assets/phototaken/bendingMachine.JPG)
