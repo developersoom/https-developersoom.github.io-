@@ -5,7 +5,6 @@ category: TIL (Today I Learned)
 permalink: /til/:year/:month/:day/:title/
 tags: [TIL, 학습과정]
 comments: true
-published: false
 ---
 
 ![bendingMacine](https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/bendingMachine.JPG?raw=true)
