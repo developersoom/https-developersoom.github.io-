@@ -2,8 +2,8 @@
 layout: post
 title: 예전 필름사진
 category: 사진
-permalink: /til/:year/:month/:day/:title/
-tags: [TIL, 학습과정]
+permalink: /Photo/:year/:month/:day/:title/
+tags: [사진]
 comments: true
 ---
 
