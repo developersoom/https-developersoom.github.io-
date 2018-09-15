@@ -20,44 +20,40 @@ comments: true
 
 <br>
 
-![blossom](/assets/phototaken/blossom.JPG)
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/blossom.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 
 <br>
 
-![child](/assets/phototaken/child.JPG)
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/child.JPG?raw=true" style="max-width: 100%; height: auto;"> 
+<br>
+
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/comicBookStore.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 
 <br>
 
-![comicBookStore](/assets/phototaken/comicBookStore.JPG)
-
-<br>
-
-![haundae](/assets/phototaken/haundae.JPG)
-
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/haundae.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 <br>
 
 ![jeon](/assets/phototaken/jeon.JPG)
-
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/child.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 <br>
 
-![onChusuk](/assets/phototaken/onChusuk.JPG)
-
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/jeon.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 <br>
 
-![stairs](/assets/phototaken/stairs.JPG)
-
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/onChusuk.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 <br>
 
-![tokyo](/assets/phototaken/tokyo.JPG)
-
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/stairs.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 <br>
 
-![tokyo2](/assets/phototaken/tokyo2.JPG)
-
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/tokyo.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 <br>
 
-![vintageClothes](/assets/phototaken/vintageClothes.JPG)
-
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/tokyo2.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 <br>
 
-![weddingOnBeach](/assets/phototaken/weddingOnBeach.JPG)
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/vintageClothes.JPG?raw=true" style="max-width: 100%; height: auto;"> 
+<br>
+
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/weddingOnBeach.JPG?raw=true" style="max-width: 100%; height: auto;"> 
