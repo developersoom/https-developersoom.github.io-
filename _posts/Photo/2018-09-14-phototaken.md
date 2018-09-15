@@ -32,7 +32,7 @@ comments: true
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/4/road.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/4/sky.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/4/squid.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
-<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/4/squid.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/4/store.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/4/sunset.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/4/windChime.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/4/youngDuck.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
