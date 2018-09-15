@@ -28,8 +28,8 @@ author:
   description: 개발초보
   contact:
     # linkedin:  
-    github:   
-    facebook: 
+    # github:   
+    # facebook: 
     # twitter:   
     # weibo:    
     email:    mailto:developer.soom@gmail.com
@@ -53,14 +53,14 @@ nav:
     #- { firebase: '/blog/categories/#firebase' }
     #- { etc: '/blog/categories/#etc' }
     # - { Tags: '/blog/tags/' }
-  About:
-    - '/about/'
-  Search:
-    - '/search/'
+  #About:
+   # - '/about/'
+  #Search:
+   # - '/search/'
 
 # Where are tags and categories displayed
-tag_page: '/blog/tags/'
-category_page: '/blog/categories/'
+#tag_page: '/blog/tags/'
+#category_page: '/blog/categories/'
 
 
 # Puglins
