@@ -37,12 +37,12 @@ author:
 # Navigation (2nd level links supported)
 nav:
   Home:
-    - https://developersoom.github.io/
+    - '/blog/'
   Categories:
-    - '/'
+    #- '/'
     #- { Categories All: '/blog/categories/' }
-    - { TIL (Today I Learned): '_posts/Photo/'}
-    - { 사진 : '/_posts/TIL(Today I Learned)/' }
+    - { TIL (Today I Learned): '/blog/categories/#til' }
+    - { 사진 : '/blog/categories/#사진' }
     #- { Django: '/blog/categories/#django' }
     #- { python: '/blog/categories/#python' }
     #- { javascript: '/blog/categories/#javascript' }
