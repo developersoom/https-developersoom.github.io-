@@ -15,7 +15,6 @@ comments: true
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/2/berlinMarket.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/2/berlinMarket2.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/2/berlinWall.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
-<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/2/berlinWall.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/2/berlinWall2.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/2/berlinWall3.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/2/berlinWallOld.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
