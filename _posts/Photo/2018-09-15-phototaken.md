@@ -34,10 +34,6 @@ comments: true
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/haundae.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 <br>
 
-![jeon](/assets/phototaken/jeon.JPG)
-<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/child.JPG?raw=true" style="max-width: 100%; height: auto;"> 
-<br>
-
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/1/jeon.JPG?raw=true" style="max-width: 100%; height: auto;"> 
 <br>
 
