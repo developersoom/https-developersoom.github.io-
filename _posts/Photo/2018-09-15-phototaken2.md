@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017
+title: year 2017
 category: 필름
 permalink: /Photo/:year/:month/:day/:title/
 tags: [필름]

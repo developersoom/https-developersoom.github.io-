@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2018 Spring - Summer
+title: year 2018 Spring - Summer
 category: 필름
 permalink: /Photo/:year/:month/:day/:title/
 tags: [필름]
