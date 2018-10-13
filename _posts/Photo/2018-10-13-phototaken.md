@@ -7,7 +7,7 @@ tags: [필름]
 comments: true
 ---
 
-<img src=https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/5/bar.JPG?raw=true"" style="max-width: 100%; height: auto;"> <br>
+<img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/5/bar.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/5/cafe.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/5/cafe2.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
 <img src="https://github.com/developersoom/developersoom.github.io/blob/master/assets/phototaken/5/cafeYangPeong.JPG?raw=true" style="max-width: 100%; height: auto;"> <br>
