@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 예전 필름사진
+title: 2016
 category: 필름
 permalink: /Photo/:year/:month/:day/:title/
 tags: [필름]
